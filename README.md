@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZeHashcat
-- 👀 I’m interested in games and programming
-- 🌱 I’m currently learning C#, SQL
-- 💞️ I’m looking to collaborate on school projects
+- 👋 Hi, I’m @ZeHashcat.
+- 👀 I’m interested in games and programming.
+- 🌱 I’m currently learning C#, SQL, working in projects.
+- 💞️ I’m looking to collaborate on school projects.
 - 📫 How to reach me ...(if you don't know already, you can fuck off rn.)
 
 <!---
